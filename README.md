@@ -1,6 +1,6 @@
 # Hello, I'm Steve Brauner
 
-### Self-Taught Programmer | Python | Django | Java (learning)
+### Self-Taught Programmer | Python | Django
 
 <div id="badges">
   <a href="https://linkedin.com/in/stevenbrauner">
