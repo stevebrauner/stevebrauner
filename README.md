@@ -1,6 +1,6 @@
 # Hello, I'm Steve Brauner
 
-###  Pastor to Cybersecurity Analyst
+### Freelance Python Developer
 
 <div id="badges">
   <a href="https://linkedin.com/in/stevenbrauner">
@@ -12,6 +12,7 @@
 </div>
 
 ---
+
 ### SUMMARY STATEMENT
 
 I am a Self-Taught Python Developer who is now doing freelance coding, while continuing to seek full-time opportunities.
